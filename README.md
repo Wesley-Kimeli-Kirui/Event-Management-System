@@ -1,5 +1,4 @@
-# Event-Management-System
-Web API Assessment
+
 **Event management System(Web API Assessment)**
 
 **Tasks**
